@@ -19,7 +19,7 @@ More comparisons are needed with cities that have different combinations of popu
 ##### References
 
 <a id='1'>[1]</a>
-“About Citi Bike.” Citi Bike NYC, Citi Bike, www.citibikenyc.com/about.
+www.citibikenyc.com/about
 
 <a id='2'>[2]</a>
 https://www.census.gov/quickfacts/fact/table/newyorkcitynewyork,desmoinescityiowa/PST045219
@@ -32,3 +32,7 @@ https://www.catchdesmoines.com/things-to-do/attractions/?skip=0&sort=qualityScor
 
 <a id='5'>[5]</a>
 Tableau Story
+
+![Des Moines Bike Paths](Des_Moines_bike_paths.png)
+
+![Des Moines Things To Do](Things_To_Do_Des_Moines.png)
