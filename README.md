@@ -31,7 +31,7 @@ https://iowadot.gov/iowabikes/bikemap/home.aspx
 https://www.catchdesmoines.com/things-to-do/attractions/?skip=0&sort=qualityScore&regionids=122%2C123%2C124%2C125%2C126
 
 <a id='5'>[5]</a>
-Tableau Story
+Tableau Story [link to dashboard](https://public.tableau.com/views/bikesharingChallenge1/NYCDesMoines?:language=en&:display_count=y&:origin=viz_share_link)
 
 ![Des Moines Bike Paths](Des_Moines_bike_paths.png)
 
